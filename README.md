@@ -5,5 +5,5 @@ para su entendimiento, así mismo servirá para brindar información basica
 acerca de ellos.
 
 ## Estructuras de Datos
-
+1. [Trie]
 ## Bactracking
