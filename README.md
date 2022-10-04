@@ -1,2 +1,2 @@
-# Algoritmica
+# Algorítmica
 PONER UNA DESCRIPCIÒN
