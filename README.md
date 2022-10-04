@@ -1,2 +1,2 @@
 # Algorítmica
-PONER UNA DESCRIPCIÒN
+El siguiente repositorio tiene la finalidad de 
