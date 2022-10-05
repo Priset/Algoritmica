@@ -18,6 +18,6 @@ acerca de ellos.
 1. [A-Union Find](https://github.com/Priset/Algoritmica/tree/main/Contest/A%20-%20Union%20Find)
 2. [B-Movie Collection](https://github.com/Priset/Algoritmica/tree/main/Contest/B%20-%20Movie%20Collection)
 3. [C-Turbo](https://github.com/Priset/Algoritmica/tree/main/Contest/C%20-%20Turbo)
-4. [D-Supercomputer]()
+4. [D-Supercomputer](https://github.com/Priset/Algoritmica/tree/main/Contest/D%20-%20Supercomputer)
 5. [E-Good Morning!]()
 6. [F-Geppeto]()
