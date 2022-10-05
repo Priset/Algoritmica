@@ -11,4 +11,4 @@ almacenadas en un arreglo ft. La cantidad de memoria que necesita el
 BIT es O(n), siendo más específicos, necesitaría una cantidad cercada a 
 n+1 estructuras del mismo tipo que los elementos de a, lo cual probaremos a continuación.
 
-![imagen](https://user-images.githubusercontent.com/90929324/193981754-0b1bc1b7-885b-4797-aec3-90a079a00ccd.png)
+![imagen](https://user-images.githubusercontent.com/90929324/193981801-051ad08d-2b66-487a-8e28-1e61b57b4902.png)
