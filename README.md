@@ -10,6 +10,8 @@ acerca de ellos.
 3. [Union Find](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Union%20Find)
 4. [Segment Tree](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Segment%20Tree)
 5. [BIT](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/BIT)
+
 ## Bactracking
+1. [Bactracking]()
 
 ## Ejercicios de Contest
