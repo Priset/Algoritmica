@@ -12,3 +12,5 @@ formales de diseño y lenguajes de programación destacan las estructuras de dat
 algoritmos, como el factor clave de organización en el diseño de software. Más precisamente, una 
 estructura de datos es una colección de valores de datos, las relaciones entre ellos y las funciones 
 u operaciones que se pueden aplicar a los datos, es decir, es una estructura algebraica sobre datos. 
+
+![imagen](https://user-images.githubusercontent.com/90929324/193977291-aa69e209-157a-43c6-85b3-7e62667af927.png)
