@@ -30,3 +30,5 @@ acerca de ellos.
 * https://pythondiario.com/2019/01/que-son-las-estructuras-de-datos.html
 * https://www.ciberaula.com/cursos/java/backtracking.php
 * https://oiaunlam.wordpress.com/2016/05/02/trie/
+* https://www.techiedelight.com/es/disjoint-set-data-structure-union-find-algorithm/
+* https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
