@@ -8,6 +8,8 @@ acerca de ellos.
 1. [Trie(Usando Array)](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Trie%20Array)
 2. [Trie(Usando Map)](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Trie%20Map)
 3. [Union Find](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Union%20Find)
+4. [Segment Tree](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Segment%20Tree)
+5. [BIT]()
 ## Bactracking
 
 ## Ejercicios de Contest
