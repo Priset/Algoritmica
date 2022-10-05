@@ -12,4 +12,4 @@ consultas (preguntas por rango y actualizaciones de elementos) sobre
 un arreglo de largo N, el tiempo total de la solución con ST será 
 Ο(Q log N) más el tiempo de construcción inicial del ST (que se puede lograr en Ο(N log N)). 
 
-![imagen](https://user-images.githubusercontent.com/90929324/193980832-93944ae9-e461-4c27-9c1d-2ad3e6e1a5a4.png)
+![imagen](https://user-images.githubusercontent.com/90929324/193980886-ac068435-e3d5-44de-b130-081c6b0a8206.png)
