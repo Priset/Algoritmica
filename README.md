@@ -15,3 +15,9 @@ acerca de ellos.
 1. [Bactracking](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%202/Bactracking)
 
 ## Ejercicios de Contest
+1. [A-Union Find]()
+2. [B-Union Find]()
+3. [C-Union Find]()
+4. [D-Union Find]()
+5. [E-Union Find]()
+6. [F-Union Find]()
