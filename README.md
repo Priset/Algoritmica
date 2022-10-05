@@ -29,3 +29,4 @@ acerca de ellos.
 * https://es.wikipedia.org/wiki/Estructura_de_datos
 * https://pythondiario.com/2019/01/que-son-las-estructuras-de-datos.html
 * https://www.ciberaula.com/cursos/java/backtracking.php
+* https://oiaunlam.wordpress.com/2016/05/02/trie/
