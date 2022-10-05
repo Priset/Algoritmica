@@ -21,3 +21,6 @@ acerca de ellos.
 4. [D-Supercomputer](https://github.com/Priset/Algoritmica/tree/main/Contest/D%20-%20Supercomputer)
 5. [E-Good Morning!](https://github.com/Priset/Algoritmica/tree/main/Contest/E%20-%20Good%20Morning!)
 6. [F-Geppeto](https://github.com/Priset/Algoritmica/tree/main/Contest/F%20-%20Geppeto)
+
+## Programación Dinámica 
+1. [Subset Sum]()
