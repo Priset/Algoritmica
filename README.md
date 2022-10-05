@@ -32,3 +32,4 @@ acerca de ellos.
 * https://oiaunlam.wordpress.com/2016/05/02/trie/
 * https://www.techiedelight.com/es/disjoint-set-data-structure-union-find-algorithm/
 * https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
+* https://progcomp.cl/segmenttree
