@@ -9,7 +9,7 @@ acerca de ellos.
 2. [Trie(Usando Map)](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Trie%20Map)
 3. [Union Find](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Union%20Find)
 4. [Segment Tree](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Segment%20Tree)
-5. [BIT]()
+5. [BIT](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/BIT)
 ## Bactracking
 
 ## Ejercicios de Contest
