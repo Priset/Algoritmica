@@ -12,6 +12,6 @@ acerca de ellos.
 5. [BIT](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/BIT)
 
 ## Bactracking
-1. [Bactracking]()
+1. [Bactracking](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%202/Bactracking)
 
 ## Ejercicios de Contest
