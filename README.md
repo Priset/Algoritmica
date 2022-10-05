@@ -33,3 +33,4 @@ acerca de ellos.
 * https://www.techiedelight.com/es/disjoint-set-data-structure-union-find-algorithm/
 * https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
 * https://progcomp.cl/segmenttree
+* https://peon-pasado.github.io/competitive-programming-classes/web/class-25.html
