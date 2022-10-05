@@ -7,6 +7,7 @@ acerca de ellos.
 ## Estructuras de Datos
 1. [Trie(Usando Array)](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Trie%20Array)
 2. [Trie(Usando Map)](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Trie%20Map)
+3. [Union Find](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Union%20Find)
 ## Bactracking
 
 ## Ejercicios de Contest
