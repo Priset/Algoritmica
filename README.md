@@ -24,3 +24,8 @@ acerca de ellos.
 
 ## Programación Dinámica 
 1. [Subset Sum]()
+
+## Referencias
+* https://es.wikipedia.org/wiki/Estructura_de_datos
+* https://pythondiario.com/2019/01/que-son-las-estructuras-de-datos.html
+* https://www.ciberaula.com/cursos/java/backtracking.php
