@@ -38,7 +38,6 @@ acerca de ellos.
 5.
 6.
 7.
-8.
 
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
