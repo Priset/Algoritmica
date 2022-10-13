@@ -28,7 +28,7 @@ acerca de ellos.
 
 ## Teoría de Grafos
 1. [Kruskal]()
-2. [Edmonds Karp]()
+2. [PRIM]()
 
 ## Ejercicios de Contest (Segunda Parte)
 1.
