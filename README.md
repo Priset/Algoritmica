@@ -30,6 +30,16 @@ acerca de ellos.
 1. [Kruskal]()
 2. 
 
+## Ejercicios de Contest (Segunda Parte)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
 * https://pythondiario.com/2019/01/que-son-las-estructuras-de-datos.html
