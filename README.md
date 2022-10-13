@@ -24,6 +24,11 @@ acerca de ellos.
 
 ## Programación Dinámica 
 1. [Subset Sum]()
+2. [Digit]()
+
+## Teoría de Grafos
+1. [Kruskal]()
+2. 
 
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
