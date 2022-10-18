@@ -11,8 +11,8 @@ acerca de ellos.
 4. [Segment Tree](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/Segment%20Tree)
 5. [BIT](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%201/BIT)
 
-## Bactracking
-1. [Bactracking](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%202/Bactracking)
+## Backtracking
+1. [Backtracking](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%202/Bactracking)
 
 ## Ejercicios de Contest (Primera Parte)
 1. [A-Union Find](https://github.com/Priset/Algoritmica/tree/main/Contest/A%20-%20Union%20Find)
