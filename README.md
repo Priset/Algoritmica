@@ -25,10 +25,11 @@ acerca de ellos.
 ## Programación Dinámica 
 1. [Subset Sum]()
 2. [Digit]()
+3. [Búsqueda Binaria]()
 
 ## Teoría de Grafos
 1. [Kruskal]()
-2. [PRIM]()
+2. [Prim]()
 
 ## Ejercicios de Contest (Segunda Parte)
 1.
@@ -48,3 +49,5 @@ acerca de ellos.
 * https://jariasf.wordpress.com/2012/04/02/disjoint-set-union-find/
 * https://progcomp.cl/segmenttree
 * https://peon-pasado.github.io/competitive-programming-classes/web/class-25.html
+* https://jabaier.sitios.ing.uc.cl/iic2552/progdin.pdf
+
