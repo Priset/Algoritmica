@@ -10,6 +10,7 @@ primera vez en 1956. Otros algoritmos que sirven para hallar el árbol de
 expansión mínima o árbol recubridor mínimo son el algoritmo de Prim, el 
 algoritmo del borrador inverso y el algoritmo de Boruvka. 
 
-![imagen](https://user-images.githubusercontent.com/90929324/196329847-1234d775-8b46-4705-8ad9-56117a639ddc.png)
+![imagen](https://user-images.githubusercontent.com/90929324/196329918-f428f403-d61d-4f3e-b632-0939cec94ff3.png)
+
 
 
