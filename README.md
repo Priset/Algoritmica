@@ -52,4 +52,5 @@ acerca de ellos.
 * https://jabaier.sitios.ing.uc.cl/iic2552/progdin.pdf
 * https://www.grapheverywhere.com/teoria-de-grafos/
 * https://es.frwiki.wiki/wiki/Probl%C3%A8me_de_la_somme_de_sous-ensembles
+* https://es.acervolima.com/digito-dp-introduccion/
 
