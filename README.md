@@ -23,7 +23,7 @@ acerca de ellos.
 6. [F-Geppeto](https://github.com/Priset/Algoritmica/tree/main/Contest/F%20-%20Geppeto)
 
 ## Programación Dinámica 
-1. [Subset Sum]()
+1. [Subset Sum](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%203/Subset%20Sum)
 2. [Digit]()
 3. [Búsqueda Binaria]()
 
