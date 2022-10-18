@@ -29,7 +29,7 @@ acerca de ellos.
 
 ## Teoría de Grafos
 1. [Kruskal](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%204/Kruskal)
-2. [Prim]()
+2. [Prim](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%204/Prim)
 
 ## Ejercicios de Contest (Segunda Parte)
 1.
@@ -55,6 +55,6 @@ acerca de ellos.
 * https://es.acervolima.com/digito-dp-introduccion/
 * https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
 * https://es.wikipedia.org/wiki/Algoritmo_de_Kruskal
-
+* https://es.wikipedia.org/wiki/Algoritmo_de_Prim
 
 
