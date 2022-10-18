@@ -24,7 +24,7 @@ acerca de ellos.
 
 ## Programación Dinámica 
 1. [Subset Sum](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%203/Subset%20Sum)
-2. [Digit]()
+2. [Digit](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%203/Digit)
 3. [Búsqueda Binaria]()
 
 ## Teoría de Grafos
