@@ -28,7 +28,7 @@ acerca de ellos.
 3. [Búsqueda Binaria](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%203/Busqueda%20Binaria)
 
 ## Teoría de Grafos
-1. [Kruskal]()
+1. [Kruskal](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%204/Kruskal)
 2. [Prim]()
 
 ## Ejercicios de Contest (Segunda Parte)
