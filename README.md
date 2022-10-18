@@ -50,4 +50,5 @@ acerca de ellos.
 * https://progcomp.cl/segmenttree
 * https://peon-pasado.github.io/competitive-programming-classes/web/class-25.html
 * https://jabaier.sitios.ing.uc.cl/iic2552/progdin.pdf
+* https://www.grapheverywhere.com/teoria-de-grafos/
 
