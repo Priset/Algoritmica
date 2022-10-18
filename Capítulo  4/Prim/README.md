@@ -14,4 +14,5 @@ manera independiente por el científico computacional Robert C. Prim en 1957 y
 redescubierto por Dijkstra en 1959. Por esta razón, el algoritmo es también 
 conocido como algoritmo DJP o algoritmo de Jarnik. 
 
-![imagen](https://user-images.githubusercontent.com/90929324/196331130-d7d35e2f-7fb1-4e56-89fa-39ce9a844a87.png)
+![imagen](https://user-images.githubusercontent.com/90929324/196331513-d96a8529-221a-42df-bfe8-517a423f361b.png)
+
