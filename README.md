@@ -41,7 +41,7 @@ acerca de ellos.
 7. [G-Palindromic Numbers]()
 
 ## Teoría de Números
-1.
+1. [Números Primos]()
  
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
