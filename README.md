@@ -32,14 +32,14 @@ acerca de ellos.
 2. [Prim](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%204/Prim)
 
 ## Ejercicios de Contest (Segunda Parte)
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-
+1. [A-Sending Email]()
+2. [B-The Monkey and the Oiled Bamboo]()
+3. [C-Freckles]()
+4. [D-Re-connecting Computer Sites]()
+5. [E-Coins And Triangle]()
+6. [F-Prefix Zeros]()
+7. [G-Palindromic Numbers]()
+ 
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
 * https://pythondiario.com/2019/01/que-son-las-estructuras-de-datos.html
