@@ -39,6 +39,9 @@ acerca de ellos.
 5. [E-Coins And Triangle]()
 6. [F-Prefix Zeros]()
 7. [G-Palindromic Numbers]()
+
+## Teoría de Números
+1.
  
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
