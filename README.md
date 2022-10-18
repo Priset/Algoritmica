@@ -53,4 +53,7 @@ acerca de ellos.
 * https://www.grapheverywhere.com/teoria-de-grafos/
 * https://es.frwiki.wiki/wiki/Probl%C3%A8me_de_la_somme_de_sous-ensembles
 * https://es.acervolima.com/digito-dp-introduccion/
+* https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
+
+
 
