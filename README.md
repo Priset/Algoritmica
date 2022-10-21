@@ -44,10 +44,10 @@ acerca de ellos.
 1. [Números Primos]()
 
 ## Otros Algoritmos
-1. [LIS]() 
-2. [Floyd Warshall]()
-3. [Cut Rodding]()
-4. [Edit Distance]()
+1. [LIS](https://github.com/Priset/Algoritmica/tree/main/Otros/LIS) 
+2. [Floyd Warshall](https://github.com/Priset/Algoritmica/tree/main/Otros/Floyd%20Warshall)
+3. [Cut Rodding](https://github.com/Priset/Algoritmica/tree/main/Otros/Cut%20Rodding)
+4. [Edit Distance](https://github.com/Priset/Algoritmica/tree/main/Otros/Edit%20Distance)
  
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
