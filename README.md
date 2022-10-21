@@ -42,6 +42,12 @@ acerca de ellos.
 
 ## Teoría de Números
 1. [Números Primos]()
+
+## Otros Algoritmos
+1. [LIS]() 
+2. [Floyd Warshall]()
+3. [Cut Rodding]()
+4. [Edit Distance]()
  
 ## Referencias
 * https://es.wikipedia.org/wiki/Estructura_de_datos
