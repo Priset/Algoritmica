@@ -65,5 +65,6 @@ acerca de ellos.
 * https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
 * https://es.wikipedia.org/wiki/Algoritmo_de_Kruskal
 * https://es.wikipedia.org/wiki/Algoritmo_de_Prim
+* https://www.geeksforgeeks.org/c-program-for-longest-increasing-subsequence/
 
 
