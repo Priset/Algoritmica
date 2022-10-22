@@ -43,4 +43,11 @@ En caso contrario, dejamos las matrices como están.
 que la matriz D contiene los penúltimos vértices de los caminos óptimos que unen dos vértices, 
 lo cual permite reconstruir cualquier camino óptimo para ir de un vértice a otro.
 
+El algoritmo de Floyd-Warshall compara todos los posibles caminos a través del grafo entre 
+cada par de vértices. El algoritmo es capaz de hacer esto con sólo 
+{\displaystyle V^{3}}{\displaystyle V^{3}} comparaciones (esto es notable 
+considerando que puede haber hasta {\displaystyle V^{2}}{\displaystyle V^{2}} 
+aristas en el grafo, y que cada combinación de aristas se prueba). Lo hace 
+mejorando paulatinamente una estimación del camino más corto entre dos vértices, hasta que se sabe que la estimación es óptima.
+
 
