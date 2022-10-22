@@ -50,4 +50,5 @@ que cada combinación de aristas se prueba). Lo hace
 mejorando paulatinamente una estimación del camino más corto entre dos vértices, 
 hasta que se sabe que la estimación es óptima.
 
+![image](https://user-images.githubusercontent.com/90929324/197361864-d08d742b-1ab1-4da0-9a25-29b0093ee740.png)
 
