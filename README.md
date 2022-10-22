@@ -66,5 +66,6 @@ acerca de ellos.
 * https://es.wikipedia.org/wiki/Algoritmo_de_Kruskal
 * https://es.wikipedia.org/wiki/Algoritmo_de_Prim
 * https://www.geeksforgeeks.org/c-program-for-longest-increasing-subsequence/
+* https://es.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall#:~:text=En%20inform%C3%A1tica%2C%20el%20algoritmo%20de,v%C3%A9rtices%20en%20una%20%C3%BAnica%20ejecuci%C3%B3n.
 
 
