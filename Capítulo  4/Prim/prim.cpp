@@ -4,59 +4,65 @@
 #define output freopen("out.txt", "w", stdout)
 using namespace std;
 
-class Grafo
-{
-public:
-    Grafo();
-    Grafo(int nodos);
-    vector< vector<int> > prim();
-private:
-    const int INF = numeric_limits<int>::max();
-    int cantidadNodos; 
-    vector< vector<int> > adyacencia; 
-};
+vector< pair <int,pair<int, int>> > grafo[100000];
+vector< pair <int,pair<int, int>> > grafoMST[100000];
+bool visitados[100000];
 
-Grafo::Grafo()
-{
-}
+int Prim(int verticeInicial){
+    multiset< pair<int,pair<int, int>> > colaPrioridad;
+    colaPrioridad.insert(make_pair(0, make_pair(verticeInicial,verticeInicial))); 
+    int expansionMST = 0;
 
-Grafo::Grafo(int nodos)
-{
-    this->cantidadNodos = nodos;
-        this->adyacencia = vector< vector<int> > (cantidadNodos);
+    while (!colaPrioridad.empty()){
+        pair <int,pair<int, int>> verticeActual = *colaPrioridad.begin();
+        colaPrioridad.erase(colaPrioridad.begin()); 
 
-        for(int i = 0; i < cantidadNodos; i++)
-            adyacencia[i] = vector<int> (cantidadNodos, INF);
-}
+        pair<int,int> verticeDireccionado = verticeActual.second; 
+        int peso = verticeActual.first; 
 
-vector< vector<int> > Grafo :: prim(){
-    vector< vector<int> > adyacencia = this->adyacencia;
-    vector< vector<int> > arbol(cantidadNodos);
-    vector<int> markedLines;
-    vector<int> :: iterator vectorIterator;
+        int verticeBegin = verticeDireccionado.first;
+        int vertice = verticeDireccionado.second;
 
-    for(int i = 0; i < cantidadNodos; i++)
-        arbol[i] = vector<int> (cantidadNodos, INF);
-
-    int padre = 0;
-    int hijo = 0;
-    while(markedLines.size() + 1 < cantidadNodos){
-        padre = hijo;
-        markedLines.push_back(padre);
-        for(int i = 0; i < cantidadNodos; i++)
-            adyacencia[i][padre] = INF;
-
-        int min = INF;
-        for(vectorIterator = markedLines.begin(); vectorIterator != markedLines.end(); vectorIterator++)
-            for(int i = 0; i < cantidadNodos; i++)
-                if(min > adyacencia[*vectorIterator][i]){
-                    min = adyacencia[*vectorIterator][i];
-                    padre = *vectorIterator;
-                    hijo = i;
-                }
-
-        arbol[padre][hijo] = min;
-        arbol[hijo][padre] = min;
+        if (!visitados[vertice]){ 
+            visitados[vertice] = true;
+            expansionMST += peso;
+            
+            grafoMST[verticeBegin].push_back(make_pair(peso,make_pair(verticeBegin,vertice)));
+            
+            for (int i = 0; i < grafo[vertice].size(); ++i){ 
+                pair<int, int> verticeVecino = grafo[vertice][i].second;
+                int pesoVecino = grafo[vertice][i].first;
+                colaPrioridad.insert(make_pair(pesoVecino, verticeVecino)); 
+            }
+        }   
     }
-    return arbol;
+
+    return expansionMST; 
 }
+
+
+
+int main()
+{
+    input;
+    int vertices, aristas;
+    cin >> vertices >> aristas;
+    for (int i = 0; i < aristas; i++)
+    {
+        int ini,fin,peso; 
+        cin>>ini>>fin>>peso;
+        grafo[ini].push_back(make_pair(peso,make_pair(ini,fin)));
+        grafo[fin].push_back(make_pair(peso,make_pair(fin,ini)));
+    }
+    cout <<  Prim(0) << endl;
+
+    for (int i = 0; i < vertices; i++){
+        for(int j = 0 ;j < grafoMST[i].size();j++){
+            cout<<grafoMST[i][j].first<<" "<<grafoMST[i][j].second.first<<" "<< grafoMST[i][j].second.second<<endl;
+        }
+    }
+
+    return 0;
+}
+
+
