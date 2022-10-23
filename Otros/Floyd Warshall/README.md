@@ -6,8 +6,8 @@ camino entre todos los pares de vértices en una única ejecución.
 El algoritmo de Floyd-Warshall es un ejemplo de programación dinámica.
 
 El algoritmo de Warshall es un ejemplo de algoritmo booleano. 
-A partir de una tabla inicial compuesta de 0`s (no hay correspondencia 
-inicial en el grafo) y 1`s (hay una correspondencia, llamase “flecha”, 
+A partir de una tabla inicial compuesta de 0 s (no hay correspondencia 
+inicial en el grafo) y 1 s (hay una correspondencia, llamase “flecha”, 
 entre nodos), obtiene una nueva matriz denominada “Matriz de Clausura 
 Transitiva” en la que se muestran todas las posibles uniones entre nodos, 
 directa o indirectamente. Es decir, si de “A” a “B” no hay una “flecha”, 
