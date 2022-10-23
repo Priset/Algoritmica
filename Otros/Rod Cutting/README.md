@@ -18,4 +18,6 @@ resolver este tipo de problemas, sin embargo, la programación dinámica
 funciona mejor. Veamos el enfoque de fuerza bruta siguiendo la explicación 
 detallada del enunciado del problema.
 
+![imagen](https://user-images.githubusercontent.com/90929324/197369400-d724c2fe-e267-45b4-bc1b-e783b62e5ec4.png)
+
 
