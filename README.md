@@ -46,7 +46,7 @@ acerca de ellos.
 ## Otros Algoritmos
 1. [LIS](https://github.com/Priset/Algoritmica/tree/main/Otros/LIS) 
 2. [Floyd Warshall](https://github.com/Priset/Algoritmica/tree/main/Otros/Floyd%20Warshall)
-3. [Cut Rodding](https://github.com/Priset/Algoritmica/tree/main/Otros/Cut%20Rodding)
+3. [Rod Cutting](https://github.com/Priset/Algoritmica/tree/main/Otros/Cut%20Rodding)
 4. [Edit Distance](https://github.com/Priset/Algoritmica/tree/main/Otros/Edit%20Distance)
  
 ## Referencias
