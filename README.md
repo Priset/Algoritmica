@@ -69,6 +69,6 @@ acerca de ellos.
 * https://es.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall#:~:text=En%20inform%C3%A1tica%2C%20el%20algoritmo%20de,v%C3%A9rtices%20en%20una%20%C3%BAnica%20ejecuci%C3%B3n.
 * https://www.wikiwand.com/es/Distancia_de_Levenshtein
 * https://es.frwiki.wiki/wiki/Plus_longue_sous-suite_strictement_croissante
-
+* https://iq.opengenus.org/rod-cutting-problem/
 
 
