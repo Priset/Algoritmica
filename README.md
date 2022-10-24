@@ -30,6 +30,8 @@ acerca de ellos.
 ## Teoría de Grafos
 1. [Kruskal](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%204/Kruskal)
 2. [Prim](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%204/Prim)
+3. [Ford Fulkerson]()
+4. [Edmonds Karp]()
 
 ## Ejercicios de Contest (Segunda Parte)
 1. [A-Sending Email]()
