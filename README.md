@@ -34,13 +34,13 @@ acerca de ellos.
 4. [Edmonds Karp]()
 
 ## Ejercicios de Contest (Segunda Parte)
-1. [A-Sending Email]()
-2. [B-The Monkey and the Oiled Bamboo]()
-3. [C-Freckles]()
-4. [D-Re-connecting Computer Sites]()
-5. [E-Coins And Triangle]()
-6. [F-Prefix Zeros]()
-7. [G-Palindromic Numbers]()
+1. [A-Sending Email](https://github.com/Priset/Algoritmica/tree/main/Contest%202/A-Sending%20Email)
+2. [B-The Monkey and the Oiled Bamboo](https://github.com/Priset/Algoritmica/tree/main/Contest%202/B-The%20Monkey%20and%20the%20Oiled%20Bamboo)
+3. [C-Freckles](https://github.com/Priset/Algoritmica/tree/main/Contest%202/C-Freckles)
+4. [D-Re-connecting Computer Sites](https://github.com/Priset/Algoritmica/tree/main/Contest%202/D-Re-connecting%20Computer%20Sites)
+5. [E-Coins And Triangle](https://github.com/Priset/Algoritmica/tree/main/Contest%202/E-Coins%20And%20Triangle)
+6. [F-Prefix Zeros](https://github.com/Priset/Algoritmica/tree/main/Contest%202/F-Prefix%20Zeros)
+7. [G-Palindromic Numbers](https://github.com/Priset/Algoritmica/tree/main/Contest%202/G-Palindromic%20Numbers)
 
 ## Teoría de Números
 1. [Números Primos]()
