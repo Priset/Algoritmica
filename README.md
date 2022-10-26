@@ -43,7 +43,7 @@ acerca de ellos.
 7. [G-Palindromic Numbers](https://github.com/Priset/Algoritmica/tree/main/Contest%202/G-Palindromic%20Numbers)
 
 ## Geometría Computacional
-1. [Geometría]()
+1. [Geometría](https://github.com/Priset/Algoritmica/tree/main/Cap%C3%ADtulo%20%205/Geometria)
 
 ## Otros Algoritmos
 1. [LIS](https://github.com/Priset/Algoritmica/tree/main/Otros/LIS) 
