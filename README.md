@@ -42,8 +42,8 @@ acerca de ellos.
 6. [F-Prefix Zeros](https://github.com/Priset/Algoritmica/tree/main/Contest%202/F-Prefix%20Zeros)
 7. [G-Palindromic Numbers](https://github.com/Priset/Algoritmica/tree/main/Contest%202/G-Palindromic%20Numbers)
 
-## Teoría de Números
-1. [Números Primos]()
+## Geometría Computacional
+1. []()
 
 ## Otros Algoritmos
 1. [LIS](https://github.com/Priset/Algoritmica/tree/main/Otros/LIS) 
