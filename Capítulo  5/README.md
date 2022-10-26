@@ -1,3 +1,3 @@
-## Teoría de Números
+## Geometría Computacional
 
 
