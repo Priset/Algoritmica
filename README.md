@@ -74,5 +74,6 @@ acerca de ellos.
 * https://iq.opengenus.org/rod-cutting-problem/
 * https://es.wikipedia.org/wiki/Algoritmo_de_Ford-Fulkerson
 * https://es.wikipedia.org/wiki/Algoritmo_de_Edmonds-Karp
+* https://es.wikipedia.org/wiki/Geometr%C3%ADa_computacional
 
 
