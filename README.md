@@ -73,5 +73,6 @@ acerca de ellos.
 * https://es.frwiki.wiki/wiki/Plus_longue_sous-suite_strictement_croissante
 * https://iq.opengenus.org/rod-cutting-problem/
 * https://es.wikipedia.org/wiki/Algoritmo_de_Ford-Fulkerson
+* https://es.wikipedia.org/wiki/Algoritmo_de_Edmonds-Karp
 
 
